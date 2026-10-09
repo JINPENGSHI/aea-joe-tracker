@@ -497,6 +497,7 @@ def print_current_comparison(weekly):
 # 9. MAIN
 # ============================================================
 
+
 def main():
 
     print("=" * 60)
@@ -557,7 +558,6 @@ def main():
     print(
         "  figures/joe_cumulative.png"
     )
-
 
 if __name__ == "__main__":
     main()
